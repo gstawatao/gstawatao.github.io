@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,900;1,500&display=swap');display=swap');
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+footer {
+    position: fixed;
+    margin-left: 42.5%;
+    margin-top: 41%;
+}
+
+a:hover{
+    color: black;
+}
